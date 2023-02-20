@@ -1,7 +1,7 @@
 import React from 'react';
-import Game from './Game';
-import Help from './Help'
-import './App.css';
+import Game from './components/Game';
+import Help from './components/Help'
+import './css/App.css';
 //importing styles, react library and 2 components
 
 function App() {
